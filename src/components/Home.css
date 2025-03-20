@@ -1,0 +1,29 @@
+.flex{display: flex; 
+    flex-direction: row; 
+    place-content: space-between; 
+    width: 1100px;
+}
+    
+.abhi{
+    padding: 0.25rem; 
+    padding-left: 1.25rem; 
+    margin-top: 0.5rem; 
+    border-radius: 1rem; 
+    width: 600px;
+}
+
+.ab{
+    padding: 0.5rem; 
+    margin-top: 0.5rem; 
+    border-radius: 1rem; 
+}
+
+.mt{
+    margin-top: 2rem; 
+}
+
+.bira{
+    padding: 1rem; 
+    border-radius: 1rem; 
+    width: 1100px;
+}

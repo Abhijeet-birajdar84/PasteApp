@@ -1,0 +1,28 @@
+.abhi{
+    padding: 0.5rem; 
+    margin-top: 1.25rem; 
+    width: 1100px;
+
+
+}
+
+.bira{
+    display: flex; 
+    flex-direction: column; 
+    gap: 1.25rem; 
+    margin-top: 20px;
+
+}
+
+.ab{
+    border: 2px solid rgb(136, 166, 196);
+    
+}
+
+.fl{
+    display: flex;
+    flex-direction: row; 
+    gap: 1rem; 
+    place-content: space-evenly; 
+
+}

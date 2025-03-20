@@ -1,0 +1,8 @@
+.flex{
+  
+    display: flex;
+    flex-direction: row;
+    gap: 4rem;
+    place-content: space-evenly;
+
+}
